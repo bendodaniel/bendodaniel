@@ -43,11 +43,11 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" href='https://code.visualstudio.com/' height="40" alt="vscode logo"  />
-  <img width="12" />
+  <img width="24" />
   <img src="https://skillicons.dev/icons?i=figma" href='href://figma.com/' height="40" alt="figma logo"  />
-  <img width="12" />
+  <img width="24" />
   <img src="https://skillicons.dev/icons?i=pycharm" href='https://code.pycharm.com/' height="40" alt="pycharm logo"  />
-  <img width="12" />
+  <img width="24" />
 </div>
 
 ###
