@@ -29,8 +29,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vue" height="40" alt="vuejs logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=lua" height="40" alt="vuejs logo"  />
   <img width="12" />
 </div>
